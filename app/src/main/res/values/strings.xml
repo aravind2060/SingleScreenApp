@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="shop_name">Aravind Mobiles</string>
+    <string name="tag_line">We Bring Good Things To Life.</string>
+    <string name="avail">Availability</string>
+    <string name="address">
+        Lovely Professional University
+        Jalandhar - Delhi G.T. Road, Phagwara, Punjab 144411
+</string>
+    <string name="phone_number">   +91 9866772522</string>
+    <string name="email">aravindareddy183@gmail.com</string>
+    <string name="about">Our mission to provide quality products to everyone.Made us market leader </string>
+</resources>
